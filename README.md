@@ -2,6 +2,8 @@
 
 This roadmap helps you learn Python step by step, from basics to real-world applications. It includes essential **concepts**, **libraries**, and **frameworks** used in the industry.
 
+[[_TOC_]]
+
 ---
 
 ## 📘 1. Python Fundamentals
